@@ -1,0 +1,115 @@
+﻿  dePPM.cpp
+cryptlib.lib(cryptlib.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(cryptlib.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(filters.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(filters.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(allocate.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(allocate.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rijndael.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rijndael.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(integer.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(integer.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(algparam.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(algparam.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(modes.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(modes.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(misc.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(misc.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(queue.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(queue.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(fips140.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(fips140.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(pch.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(pch.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(mqueue.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(mqueue.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(cpu.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(cpu.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rdtables.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rdtables.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(dll.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(dll.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(nbtheory.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(nbtheory.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(asn.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(asn.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(pubkey.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(pubkey.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(iterhash.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(iterhash.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sha.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sha.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sse_simd.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sse_simd.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hmac.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hmac.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gf2n.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gf2n.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(ec2n.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(ec2n.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(ecp.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(ecp.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(basecode.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(basecode.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hex.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hex.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rng.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(rng.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(osrng.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(osrng.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(primetab.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(primetab.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sha_simd.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(sha_simd.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(randpool.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(randpool.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hrtimer.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符: '0' 值與 '2' 值 (位於 dePPM.obj) 不符
+cryptlib.lib(hrtimer.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符: 'MT_StaticRelease' 值與 'MTd_StaticDebug' 值 (位於 dePPM.obj) 不符
+libcpmtd.lib(wlocale.obj) : error LNK2001: 無法解析的外部符號 _calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 無法解析的外部符號 _calloc_dbg
+dePPM.obj : error LNK2001: 無法解析的外部符號 _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 無法解析的外部符號 _calloc_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: 無法解析的外部符號 _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 無法解析的外部符號 _calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+dePPM.obj : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: 無法解析的外部符號 _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+dePPM.obj : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: 無法解析的外部符號 _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(xtime.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(xlocale.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+dePPM.obj : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(cout.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(cerr.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(thread0.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReport
+libcpmtd.lib(_tolower.obj) : error LNK2019: 在函式 _wcsdup_dbg_Getctype 中參考了無法解析的外部符號
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: 無法解析的外部符號 _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: 在函式 _realloc_dbg"private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z) 中參考了無法解析的外部符號
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2019: 在函式 _CrtDbgReportW_freea_crt 中參考了無法解析的外部符號
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 無法解析的外部符號 _CrtDbgReportW
+C:\Users\yujie\source\repos\dePPM\x64\Debug\dePPM.exe : fatal error LNK1120: 7 個無法解析的外部符號
