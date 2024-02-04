@@ -1,1 +1,2 @@
-# PMsha Need Crypto++ 
+PPM加密
+功能包含->加密->分成5個檔案
