@@ -14,6 +14,6 @@ Warning:data資料夾內不可含有其他檔案，不然解密會錯誤
 https://youtu.be/PV9Spo1q_jg
 
 ---------------------------------------------------------------------------
-ppmcrypt.h Tutorial :
-ppmc yourname ;
-yourname.ppmcrypt("YourKey");
+ppmcrypt.h Tutorial 
+ppmc yourname
+yourname.ppmcrypt("YourKey")
