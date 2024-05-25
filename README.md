@@ -16,6 +16,6 @@ https://youtu.be/PV9Spo1q_jg
 ---------------------------------------------------------------------------
 ppmcrypt.h Tutorial 
 
-ppmc yourname
+ppmc yourname;
 
-yourname.ppmcrypt("YourKey")
+yourname.ppmcrypt("YourKey");
